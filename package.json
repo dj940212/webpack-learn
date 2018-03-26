@@ -1,0 +1,28 @@
+{
+  "name": "webpack-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dj940212/webpack-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dj940212/webpack-learn/issues"
+  },
+  "homepage": "https://github.com/dj940212/webpack-learn#readme",
+  "dependencies": {
+    "@babel/core": "^7.0.0-beta.42",
+    "@babel/preset-env": "^7.0.0-beta.42",
+    "@babel/runtime": "^7.0.0-beta.42",
+    "babel-loader": "^8.0.0-beta.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.0.0-beta.42"
+  }
+}
